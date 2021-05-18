@@ -35,4 +35,8 @@ public class F implements C, K {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public double ad() {
+        return 12.12;
+    }
 }

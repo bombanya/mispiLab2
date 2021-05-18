@@ -19,4 +19,8 @@ public class B extends F {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
