@@ -27,8 +27,4 @@ public class F implements C, K {
     public String kk() {
         return "No";
     }
-
-    public void bb() {
-        System.out.println(getClass().getName());
-    }
 }
