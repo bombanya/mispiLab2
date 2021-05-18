@@ -23,4 +23,8 @@ public class B extends F {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public byte oo() {
+        return 2;
+    }
 }

@@ -39,4 +39,8 @@ public class F implements C, K {
     public double ad() {
         return 12.12;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
