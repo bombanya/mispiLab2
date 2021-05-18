@@ -12,10 +12,6 @@ public class B extends F {
         return 99999;
     }
 
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
-
     public Object pp() {
         return this;
     }
@@ -38,5 +34,16 @@ public class B extends F {
 
     public long ac() {
         return 111;
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public byte oo() {
+        return 2;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
     }
 }

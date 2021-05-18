@@ -31,11 +31,6 @@ public class F extends null implements C, K {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
-
-    public double ad() {
-        return 11;
-    }
-
     public void bb() {
         System.out.println(getClass().getName());
     }
@@ -50,5 +45,16 @@ public class F extends null implements C, K {
 
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
+
+    public double ad() {
+        return 12.12;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
     }
 }
