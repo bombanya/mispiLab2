@@ -42,5 +42,16 @@ public class B extends F {
 
     public void bb() {
         System.out.println(42);
+
+    public int ae() {
+        return 8;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public long ac() {
+        return 111;
     }
 }
