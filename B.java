@@ -12,6 +12,10 @@ public class B extends F {
         return 99999;
     }
 
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
     public Object pp() {
         return this;
     }
@@ -20,7 +24,19 @@ public class B extends F {
         return getClass();
     }
 
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    public int ae() {
+        return 8;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public long ac() {
+        return 111;
     }
 }
