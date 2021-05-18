@@ -15,4 +15,8 @@ public class B extends F {
     public Object pp() {
         return this;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

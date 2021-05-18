@@ -31,4 +31,8 @@ public class F implements C, K {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
